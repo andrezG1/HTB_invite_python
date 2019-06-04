@@ -5,5 +5,7 @@ HTB es una herramienta para facilitar la obtención del codigo de invitación de
 para poner el script a funcionar necesitamos estas tres librerías 
 _________________________________________________________________________
 pip install tkinter 
+
 pip install requests
+
 pip install base64
